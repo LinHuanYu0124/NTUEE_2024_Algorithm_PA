@@ -1,0 +1,30 @@
+This is README file for Algorithm PA#3
+Author: <B10502013>
+Date: 2024/05/31
+=====
+SYNOPSIS:
+
+./bin/cd <input_file_name> <output_file_name>
+
+=====
+DIRECTORY:
+
+bin/	  cd
+doc/	  report
+src/ 	  cd.cpp
+utility/  checkSubmitPA3.sh
+======
+HOW TO CIMPILE:
+
+Then compile the demo, simply follow the following steps
+	make
+======
+HOW TO RUN:
+
+	cd bin/
+	./bin/cd <input_file_name> <output_file_name>
+	For example,
+	under b10502013_pa3
+	./bin/cd inputs/public_case_0.in outputs/public_case_0.out
+======
+
